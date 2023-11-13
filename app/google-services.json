@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919595185894",
+    "project_id": "itemfinder4-d6e0e",
+    "storage_bucket": "itemfinder4-d6e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919595185894:android:4bb3da7de5ccf5b1416d27",
+        "android_client_info": {
+          "package_name": "com.example.itemfinder4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9KwbZoZCBlrcEvk0zAZ_6VVpNFQR6CNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ItemFinder4</string>
+    <string name="title_activity_botones">Botones</string>
+
+    <string name="title_home"></string>
+    <string name="title_buscar"></string>
+    <string name="title_perfil"></string>
+</resources>
